@@ -1,7 +1,6 @@
 # SE_intern_Training_POS
 
 SEstudio internship program
-<<<<<<< HEAD
 
 # Pham Nguyen My Diem
 =======
@@ -12,4 +11,6 @@ Nguyen Huy
 An le
 DaoDung
 112233
->>>>>>> master
+
+
+//Dung Đep Trai
