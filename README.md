@@ -1,7 +1,6 @@
 # SE_intern_Training_POS
 
 SEstudio internship program
-<<<<<<< HEAD
 
 # Pham Nguyen My Diem
 =======
