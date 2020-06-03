@@ -1,0 +1,8 @@
+Packages:
+    - body-parser: để parde parameter được gửi từ frontend
+    - cors: cho phép request đến từ server (máy chủ) khác hoặc 1 port (cổng) khác cùng một server 
+
+MongoDB: root - root
+    IP: 27.64.57.48
+    connection String: mongodb+srv://root:<password>@cluster0-sebob.mongodb.net/test?retryWrites=true&w=majority
+    
